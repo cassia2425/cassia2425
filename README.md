@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ---
 
 ## 🚀 Tech Stack
-- **Languages:** Python, JavaScript, TypeScript, Java
+- **Languages:** Python, JavaScript, TypeScript, Java, Angular
 - **Frameworks:** React, Node.js, Django
 - **Tools & Platforms:** Git, Docker, Kubernetes, AWS
 
@@ -32,7 +32,6 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/cassia2425)
-- 🐦 [Twitter](https://twitter.com/cassia2425)
 - 🌍 [Portfolio](https://cassia2425.dev)
 
 ---
